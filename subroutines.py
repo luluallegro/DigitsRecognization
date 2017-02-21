@@ -1,11 +1,11 @@
 '''
 #  ======================================================================
 #     FileName: subroutines.py
-#      Project: HandDigitRecognization
+#      Project: DigitsRecognization
 #       Author: Yong Yang, Department of Mathematics, UTA
-#        Email: yong.yang@mavs.uta.edu
+#        Email: yongyang@uta.edu; yongyang.math@gmail.com
 #      Created: 2017-02-20 11:26:34
-#   LastChange: 2017-02-20 21:40:23
+#   LastChange: 2017-02-20 22:07:33
 #  ======================================================================
 '''
 import math

@@ -1,11 +1,11 @@
 '''
 #  ======================================================================
 #     FileName: HandWritten.py
-#      Project: HandDigitRecognization
+#      Project: DigitsRecognization
 #       Author: Yong Yang, Department of Mathematics, UTA
-#        Email: yongyang@mavs.uta.edu
+#        Email: yongyang@uta.edu; yongyang.math@gmail.com
 #      Created: 2017-02-20 10:57:10
-#   LastChange: 2017-02-20 21:42:20
+#   LastChange: 2017-02-20 22:06:57
 #  ======================================================================
 '''
 import scipy.io as sio
